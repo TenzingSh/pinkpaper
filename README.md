@@ -28,7 +28,6 @@ Comments and pull requests are welcomed.
 
 #### See also
 
-- [Presentation deck on 2021-03-30](</files/2021-03-30 DeFiChain PinkPaper Overview.pdf>)
 
 ## Disclaimers
 
